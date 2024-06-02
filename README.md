@@ -2,6 +2,10 @@
 
 Flutter Todo app created according to the Figma design.
 
+## Download
+
+[Click here](todo.apk) to download the app on your Android device.
+
 ## Screenshots
 
 <table>
